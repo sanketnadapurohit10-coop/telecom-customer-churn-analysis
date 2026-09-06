@@ -51,7 +51,7 @@ Predictive analysis of customer churn for a telecom company, with actionable ret
 | Random Forest | 70% | 0.7471 |
 
 ## 📁 Repository Contents
-
+![image alt](https://github.com/sanketnadapurohit10-coop/telecom-customer-churn-analysis/blob/9a54d2ec1afc6290c3cce81422447c94c73a43e5/churn_analysis_dashboard.png)
 - `CHURN_ANALYSIS_REPORT.md` / `.pdf` — Full analysis report: problem statement, methodology, findings, and recommendations
 - `PROJECT_DELIVERABLES.md` / `.pdf` — Summary of project deliverables, results, and business impact
 - `churn_analysis_dashboard.png` — 9-panel visual dashboard of churn drivers and segments
